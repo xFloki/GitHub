@@ -7,7 +7,7 @@ public class EjerciciosBasicosJava1 extends ConsoleProgram {
 		println(multiplo(10));
 		println(multiplo(15));
 	}
-
+//i
 	private boolean fiestaArdillas(boolean findesemana, int bellotas){
 		if (!findesemana){
 			if(bellotas >= 40 && bellotas <= 60){
